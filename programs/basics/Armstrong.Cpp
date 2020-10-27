@@ -15,7 +15,7 @@ int main(int argc, char *argv[]){
 			n = n/10;
     }
 
-   if(sum == original_no)   cout<<"Armstrong Number"<<endl;
-   else                     cout<<"Not Armstrong"<<endl;
+   if(sum == original_no)   cout<<"Armstrong Number\n";
+   else                     cout<<"Not Armstrong\n";
    
 }
