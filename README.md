@@ -1,2 +1,4 @@
 # CPP
-This is the C++ Repo where i will upload all my code , which will and were pracrticed my me.
+
+THIS IS MY C++ PLACEMENT PREPRATION REPO , WHERE I WILL UPLOAD ALL MY CODE WHICH WERE PRACTICED BY ME. 
+THE TOPICS ARE RELATED TO C++, DATA-STRUCTURES & ALGORITHMS IN THIS CODE REPOSITORY.
