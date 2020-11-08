@@ -1,0 +1,1 @@
+{"name":"Local: LinearSearch","url":"c:\\Users\\AmanSoni\\Desktop\\C++ Apna College\\programs\\searching\\LinearSearch.cpp","tests":[{"id":1604832330642,"input":"4\n10 20 30 40\n40","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\AmanSoni\\Desktop\\C++ Apna College\\programs\\searching\\LinearSearch.cpp","group":"local","local":true}
