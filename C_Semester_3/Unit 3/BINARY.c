@@ -1,11 +1,11 @@
 //program for binary search
 #include<stdio.h>
-#include<conio.h>
+
 void binary(int a[],int n,int t);
 void main()
 {
  int a[20],n,t,i;
- clrscr();
+ 
  printf("\nHow many numbers in the list:");
  scanf("%d",&n);
  printf("Enter nos:");
@@ -14,7 +14,7 @@ void main()
  printf("\nEnter number to search:");
  scanf("%d",&t);
  binary(a,n,t);
- getch();
+ 
 }
 //function for linear search
 void binary(int a[],int n,int t)

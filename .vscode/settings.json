@@ -1,3 +1,7 @@
 {
+    "files.associations": {
+        "BST.C": "cpp",
+        "iostream": "cpp"
+    },
     "C_Cpp.errorSquiggles": "Enabled"
 }

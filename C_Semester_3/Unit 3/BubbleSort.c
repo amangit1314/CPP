@@ -1,18 +1,18 @@
 //program for bubble sort
 #include<stdio.h>
-#include<conio.h>
+
 void bubble(int a[],int);
 void main()
 {
  int a[20],n,i;
- clrscr();
+
  printf("\nHow many numbers in the list:");
  scanf("%d",&n);
  printf("Enter array elements:");
  for(i=0;i<n;i++)
   scanf("%d",&a[i]);
  bubble(a,n);
-getch();
+
 }
 //function for bubble sort
 void bubble(int a[],int n)
