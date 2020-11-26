@@ -1,16 +1,13 @@
 #include<iostream>
 using namespace std;
 
+//ye hai array a[] = {1, 2, 3, 4}.
 int linearSearch(int a[] , int n , int key){
 
     for(int i = 0 ; i < n ; i++){
-        if(a[i] == key){
+        if(a[i] == key)
             return i;
-        }
     }
-    
-    return -1;
-
 }
 
 int main(){
@@ -26,6 +23,6 @@ int main(){
     int key;
     cin>>key;
 
-    cout<<linearSearch(a , n , key)<<endl;
+    cout<< "element position = " << linearSearch(a , n , key)<<endl;
     return 0;
 }

@@ -1,5 +1,6 @@
 #include<iostream>
 #include<math.h>
+#include<climits>
 using namespace std;
 
 int main(){
@@ -10,8 +11,8 @@ int main(){
     for(int i;i<n;i++)
         cin>>arr[i];
 
-    int maxNo = INT8_MIN;
-    int minNo = INT8_MAX;
+    int maxNo = INT_MIN;
+    int minNo = INT_MAX;
 
     for(int i=0;i<n;i++){
         maxNo = max(maxNo, arr[i]);

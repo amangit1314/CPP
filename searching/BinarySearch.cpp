@@ -4,6 +4,8 @@ using namespace std;
 // Binary Search {Which uses [The DIVIDE & CONQUER] Approach}
 // But their is a condition that (we must have sorted data to find the key or element in an array).
 
+
+//a[7] = {1,2,3,4,5,6,7}
 int binarySearch(int arr[], int n, int key){
 
     int s = 0;
