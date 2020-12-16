@@ -1,9 +1,6 @@
 #include<iostream>
 using namespace std;
 
-class main(){
-	
-}
 int main(int argc, char const *argv[])
 {
 	int a, b;
@@ -17,12 +14,18 @@ int main(int argc, char const *argv[])
 	{
 		if(x != 0)
 			cout<<" Result(a/x) = " << a/x << endl;
+			
 		else
 			throw(x);
 	}
 
 	catch(int i){
 		cout<<"Exception Caught: x = " << x <<endl;
+	}
+
+	//For multiple try and catch cases
+	catch(...){
+		cout << "Unusual Excepetion!";
 	}
 
 	cout << "End";
