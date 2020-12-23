@@ -13,7 +13,7 @@ int swap(int n1, int n2){
     cout<< "Two numbers after swapping: " << "n1 = "<< n1 << " " << "n2 = "<< n2 <<endl;
 }
 
-int32_t main(){
+int main(){
 
     int n1, n2;
     cin>>n1;
