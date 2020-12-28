@@ -1,6 +1,5 @@
-#include<iostream>
-#include<math.h>
-#include<climits>
+#include<bits/stdc++.h>
+
 using namespace std;
 
 int main(){

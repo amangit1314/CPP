@@ -19,11 +19,11 @@ int findMinDiff(int arr[], int n, int m)
 {
     // if there are no chocolates or number
     // of students is 0
-    if (m==0 || n==0)
+    if (m == 0 || n == 0)
         return 0;
  
     // Sort the given packets
-    sort(arr, arr+n);
+    sort(arr, arr + n);
  
     // Number of students cannot be more than
     // number of packets
@@ -40,7 +40,7 @@ int findMinDiff(int arr[], int n, int m)
      
     for (int i=0; i+m-1<n; i++)
     {
-        int diff = arr[i+m-1] - arr[i];
+        int diff = arr[i + m-1] - arr[i];
         if (diff < min_diff)
             min_diff = diff;
     }
@@ -54,7 +54,6 @@ int main()
                  43, 50};
     int m = 7;  // Number of students
     int n = sizeof(arr)/sizeof(arr[0]);
-    cout << "Minimum difference is "
-         << findMinDiff(arr, n, m);
+    cout << "Minimum difference is " << findMinDiff(arr, n, m);
     return 0;
 }

@@ -39,11 +39,9 @@ int main()
  
     // Function calling
     if (hasArrayTwoCandidates(A, arr_size, n))
-        cout << "Array has two elements"
-                " with given sum";
+        cout << "Array has two elements with given sum";
     else
-        cout << "Array doesn't have two"
-                " elements with given sum";
+        cout << "Array doesn't have two elements with given sum";
  
     return 0;
 }

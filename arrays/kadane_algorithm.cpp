@@ -1,6 +1,6 @@
 #include<iostream>
 #include<climits>
-//Kadane's Algorithm
+//Kadane's Algorithm for finding "MAX SUB-ARRAY" in an array, in linear time complexity
 using namespace std;
 
 int main(){
