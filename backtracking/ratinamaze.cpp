@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//This function is used to find isSafe
 bool isSafe(int** arr, int x, int y, int n)
 {
     if(x < n && y < n && arr[x][y] == 1)
