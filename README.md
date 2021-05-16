@@ -6,8 +6,8 @@
 3.  Standard Template Liberary.
 4.  DATA-STRUCTURES & ALGORITHMS. 
 5.  AND SOME EXTEND TO COMPETEIVE PROGRAMING.
-6.  LOVE BABBAR "DSA Cracker Sheet" SOLUTIONS.
-7.  Apni Kaksha Guaranteed Placement Course Code.
+6.  LOVE BABBAR "DSA Cracker Sheet" SOLUTIONS. https://github.com/gitaman8481/CPP/tree/dsa-cracker-sheet-solutions
+7.  Apni Kaksha Guaranteed Placement Course Code. https://github.com/gitaman8481/CPP
 
 # DSA Cracker Sheet Solution in CPP. 
 This is a full fledged repository for learning C++ Language & DSA for Placement Prepration.
