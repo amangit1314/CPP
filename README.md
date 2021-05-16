@@ -19,4 +19,11 @@ This is a full fledged repository for learning C++ Language & DSA for Placement 
 <img src="https://user-images.githubusercontent.com/65482419/118401608-f1490e80-b683-11eb-9e58-af14ae9a5cab.png" width="312" height="312">
 
 # Logo For Apni Kaksha Guaranteed Placement Course Code
+<p>
+  <img src="https://user-images.githubusercontent.com/65482419/118402284-dc21af00-b686-11eb-8ea3-77dcb3beafd2.jpg" width="312" height="312">
+  <br>
+  <img src="https://user-images.githubusercontent.com/65482419/118402288-dd52dc00-b686-11eb-8f10-6e3bfe6fe741.jpg" width="312" height="312">
+</p>
 
+![main-qimg-3fd423e9982cb1767380fbb24395b4ad](https://user-images.githubusercontent.com/65482419/118402284-dc21af00-b686-11eb-8ea3-77dcb3beafd2.jpg)
+![936fdb9dc52207e934a9faa57f1ac338](https://user-images.githubusercontent.com/65482419/118402288-dd52dc00-b686-11eb-8f10-6e3bfe6fe741.jpg)
