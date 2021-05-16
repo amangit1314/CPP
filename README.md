@@ -16,7 +16,7 @@ This is a full fledged repository for learning C++ Language & DSA for Placement 
 - Along with 450 questions, I have also include OOP's Concept's Code in this repository.
 
 # Logo For DSA Cracker Sheet
-![logo512](https://user-images.githubusercontent.com/65482419/118401608-f1490e80-b683-11eb-9e58-af14ae9a5cab.png)
+<img src="https://user-images.githubusercontent.com/65482419/118401608-f1490e80-b683-11eb-9e58-af14ae9a5cab.png" width="312" height="312">
 
 # Logo For Apni Kaksha Guaranteed Placement Course Code
 
